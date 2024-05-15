@@ -3,5 +3,5 @@ How to Play:
 2. Ensure Python is installed.
 3. Open a terminal or command prompt.
 4. Navigate to the project directory.
-5. Run the game with the command: python main.py
+5. Run the game with the command: python blackjack.py
 6. Enjoy
